@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/xiyau/js-dev-env-demo-api.git"
   },
   "author": "Cory House",
   "license": "MIT"
